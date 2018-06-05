@@ -1,0 +1,40 @@
+body{
+	background-image:url("homepage_photo.jpg");
+	background-size:100% 120%;
+	background-repeat:no-repeat;
+	}
+
+.picture{
+	margin-top: -70px;
+	margin-left: 200px;
+	text-align:center;
+}
+.picture2{
+	margin-top: -550px;
+	margin-left: 800px;
+	text-align:center;
+}
+.colorroll{
+	margin-top: 100px;
+	margin-left: 600px;
+}
+
+<div class="picture">
+<div class="card" style="width: 21rem;">
+  <img class="card-img-top" src="my_photo.jpg"  alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">Xinda Huang</p>
+    <p class="card-text">XindaHuang2019@u.northwestern.edu</p>
+  </div>
+</div>
+</div>
+
+<div class="picture2">
+<div class="card" style="width: 21rem;">
+  <img class="card-img-top" src="Liucao.jpg"  alt="Card image cap">
+  <div class="card-body">
+    <p class="card-text">Liu Cao</p>
+    <p class="card-text">Liucao2019@u.northwestern.edu</p>
+  </div>
+</div>
+</div>

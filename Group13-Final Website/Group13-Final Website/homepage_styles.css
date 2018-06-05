@@ -1,0 +1,15 @@
+body{
+	background-image:url("homepage_photo.jpg");
+	background-size:100% 250%;
+	background-repeat:no-repeat;
+	}
+.headtext{
+	color:white;
+	margin-top: 200px;
+	text-align:center;
+}
+.info{
+	color:white;
+	margin-top: 20px;
+	text-align:center;
+}
